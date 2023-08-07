@@ -62,4 +62,5 @@ Rails.application.configure do
 
   # Uncomment if you wish to allow Action Cable access from any origin.
   # config.action_cable.disable_request_forgery_protection = true
+  config.resource_base_url = "https://www.themealdb.com/api/json/v1/1"
 end
