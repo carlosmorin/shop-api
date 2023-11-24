@@ -1,312 +1,148 @@
-[
-	{
-		"food_trailer" => [
-			{
-				"name" => "7x10 Food Trailer",
-				"price" => "$12,880",
-				"body" => "
-					Water package: 30g Fresh/45g Grey Tanks, Electric 6g Water Heater, Water Pump
-			        <br>
-			        Electrical package: 2 Double Outlets 110v, 30amp electric service (4 Breakers), 1 LED Light (interior), 2 LED Light Reflectors (exterior)
-			        <br>
-			        Sink package: Triple Sink (12x12x10) and Handwashing Sink (12x10x6)
-			        <br>
-			        A/C heater unit: 12000 BTUs
-			        <br>
-			        Concession window: with Pass-out Window and exterior counter
-			        <br>
-			        Working table: 72x16in stainless steel",
-				"gallery" => [
-					"food_trailer/7x10/1.jpg",
-					"food_trailer/7x10/2.jpg",
-					"food_trailer/7x10/3.jpg",
-					"food_trailer/7x10/4.jpg",
-				]
-			},
-			{
-				"name" => "8x12 Food Trailer",
-				"price" => "$14,480",
-				"body" => "
-			        Water package: 30g Fresh/45g Grey Tanks, Electric 6g Water Heater, Water Pump
-			        <br>
-			        Electrical package: 2 Double Outlets 110v, 30amp electric service (4 Breakers), 1 LED Light (interior), 2 LED Light Reflectors (exterior)
-			        <br>
-			        Sink package: Triple Sink (12x12x10) and Handwashing Sink (12x10x6)
-			        <br>
-			        A/C heater unit: 12000 BTUs
-			        <br>
-			        Concession window: with Pass-out Window and exterior counter
-			        <br>
-			        Working table: 72x16in stainless steel",
-				"gallery" => [
-					"food_trailer/8x12/1.jpg",
-					"food_trailer/8x12/2.jpg",
-					"food_trailer/8x12/3.jpg",
-					"food_trailer/8x12/4.jpg",
-				]
-			},
-			{
-				"name" => "8x14 Food Trailer",
-				"price" => "$16,985",
-				"body" => "
-			        Water package: 30g Fresh/45g Grey Tanks, Electric 6g Water Heater, Water Pump
-			        <br>
-			        Electrical package: 3 Double Outlets 110v, 30amp electric service (4 Breakers), 2 LED Light (interior), 2 LED Light Reflectors (exterior)
-			        <br>
-			        Sink package: Triple Sink (12x12x10) and Handwashing Sink (12x10x6)
-			        <br>
-			        A/C heater unit: 12000 BTUs
-			        <br>
-			        Concession window: with Pass-out Window and exterior counter
-			        <br>
-			        Working table: 72x16in stainless steel",
-				"gallery" => [
-					"food_trailer/8x14/1.jpg",
-					"food_trailer/8x14/2.jpg",
-					"food_trailer/8x14/3.jpg",
-					"food_trailer/8x14/4.jpg",
-				]
-			},
-			{
-				"name" => "8x16 Food Trailer",
-				"price" => "$18,585",
-				"body" => "
-			        Water package: 30g Fresh/45g Grey Tanks, Electric 6g Water Heater, Water Pump
-			        <br>
-			        Electrical package: 3 Double Outlets 110v, 30amp electric service (4 Breakers), 2 LED Light (interior), 2 LED Light Reflectors (exterior)
-			        <br>
-			        Sink package: Triple Sink (12x12x10) and Handwashing Sink (12x10x6)
-			        <br>
-			        A/C heater unit: 12000 BTUs
-			        <br>
-			        Concession window: with Pass-out Window and exterior counter
-			        <br>
-			        Working table: 72x16in stainless steel",
-				"gallery" => [
-					"food_trailer/8x16/1.jpg",
-					"food_trailer/8x16/2.jpg",
-					"food_trailer/8x16/3.jpg",
-					"food_trailer/8x16/4.jpg",
-				]
-			},
-			{
-				"name" => "8x18 Food Trailer",
-				"price" => "$19,950",
-				"body" => "
-			        Water package: 30g Fresh/45g Grey Tanks, Electric 6g Water Heater, Water Pump
-			        <br>
-			        Electrical package: 3 Double Outlets 110v, 30amp electric service (4 Breakers), 2 LED Light (interior), 2 LED Light Reflectors (exterior)
-			        <br>
-			        Sink package: Triple Sink (12x12x10) and Handwashing Sink (12x10x6)
-			        <br>
-			        A/C heater unit: 12000 BTUs
-			        <br>
-			        Concession window: with Pass-out Window and exterior counter
-			        <br>
-			        Working table: 72x16in stainless steel",
-				"gallery" => [
-					"food_trailer/8x18/1.jpg",
-					"food_trailer/8x18/2.jpg",
-					"food_trailer/8x18/3.jpg",
-					"food_trailer/8x18/4.jpg",
-				]
-			},
-			{
-				"name" => "8x20 Food Trailer",
-				"price" => "$20,950",
-				"body" => "
-			        Water package: 30g Fresh/45g Grey Tanks, Electric 6g Water Heater, Water Pump
-			        <br>
-			        Electrical package: 3 Double Outlets 110v, 30amp electric service (4 Breakers), 3 LED Light (interior), 2 LED Light Reflectors (exterior)
-			        <br>
-			        Sink package: Triple Sink (12x12x10) and Handwashing Sink (12x10x6)
-			        <br>
-			        A/C heater unit: 12000 BTUs
-			        <br>
-			        (2) Concession windows: with Pass-out Window and exterior counter
-			        <br>
-			        Working table: 72x16in stainless steel",
-				"gallery" => [
-					"food_trailer/8x20/1.jpg",
-					"food_trailer/8x20/2.jpg",
-					"food_trailer/8x20/3.jpg",
-					"food_trailer/8x20/4.jpg",
-				]
-			},
-			{
-				"name" => "8x24 Food Trailer",
-				"price" => "$23,450",
-				"body" => "
-			        Water package: 30g Fresh/45g Grey Tanks, Electric 6g Water Heater, Water Pump
-			        <br>
-			        Electrical package: 3 Double Outlets 110v, 30amp electric service (4 Breakers), 3 LED Light (interior), 2 LED Light Reflectors (exterior)
-			        <br>
-			        Sink package: Triple Sink (12x12x10) and Handwashing Sink (12x10x6)
-			        <br>
-			        A/C heater unit: 12000 BTUs
-			        <br>
-			        (2) Concession windows: with Pass-out Window and exterior counter
-			        <br>
-			        Working table: 72x16in stainless steel",
-				"gallery" => [
-					"food_trailer/8x24/1.jpg",
-					"food_trailer/8x24/2.jpg",
-					"food_trailer/8x24/3.jpg",
-					"food_trailer/8x24/4.jpg",
-				]
-			},
-			{
-				"name" => "8x28 Food Trailer",
-				"price" => "$27,650",
-				"body" => "
-			        Water package: 30g Fresh/45g Grey Tanks, Electric 6g Water Heater, Water Pump
-			        <br>
-			        Electrical package: 8 Double Outlets 110v, 30amp electric service (6 Breakers), 3 LED Light (interior), 2 LED Light Reflectors (exterior)
-			        <br>
-			        Sink package: Triple Sink (12x12x10) and Handwashing Sink (12x10x6)
-			        <br>
-			        A/C heater unit: 12000 BTUs
-			        <br>
-			        (3) Concession windows: with Pass-out Window and exterior counter
-			        <br>
-			        Working table: 72x16in stainless steel",
-				"gallery" => [
-					"food_trailer/8x28/1.jpg",
-					"food_trailer/8x28/2.jpg",
-					"food_trailer/8x28/3.jpg",
-					"food_trailer/8x28/4.jpg"
-				]
-			},
-			{
-				"name" => "8x32 Food Trailer",
-				"price" => "$29,985",
-				"body" => "
-			        Water package: 30g Fresh/45g Grey Tanks, Electric 6g Water Heater, Water Pump
-			        <br>
-			        Electrical package: 8 Double Outlets 110v, 30amp electric service (6 Breakers), 3 LED Light (interior), 2 LED Light Reflectors (exterior)
-			        <br>
-			        Sink package: Triple Sink (12x12x10) and Handwashing Sink (12x10x6)
-			        A/C heater unit: 12000 BTUs
-			        <br>
-			        (3) Concession windows: with Pass-out Window and exterior counter
-			        <br>
-			        Working table: 72x16in stainless steel",
-				"gallery" => [
-					"food_trailer/8x32/1.jpg",
-					"food_trailer/8x32/2.jpg",
-					"food_trailer/8x32/3.jpg",
-					"food_trailer/8x32/4.jpg"
-				]
-			},
-		],
-		"restroom_trailer" => [
-			{
-				"name" => "7x10 2-Stall Restroom Trailer",
-				"price" => "",
-				"body" => '
-			      Water package: 2 53gal Fresh Water Tanks, 1 53gal Grey Water Tank, 2 48gal Waste Water Tanks and 2 Water Pumps
-			      Electrical package: 2 Double Outlets 110v, 30amp Service, 4 breakers box, 3 Interior Lights
-			      <br>
-			      2 RV Toilets with Water Hose
-			      <br>
-			      2 Handwashing Sinks
-			      <br>
-			      2 Cabinets
-			      <br>
-			      1 Machine Room
-			      <br>
-			      1 RV Flush Waste Valves
-			      <br>
-			      3 30" Door w/Flush Lock
-				',
-				"gallery" => [
-					"restroom_trailer/7x10/1.jpg",
-					"restroom_trailer/7x10/2.jpg",
-					"restroom_trailer/7x10/3.jpg",
-					"restroom_trailer/7x10/4.jpg"
-				]
-			},
-			{
-				"name" => "7x14 2-Stall Restroom Trailer",
-				"price" => "$18,920",
-				"body" => '
-			      Water package: 2 53gal Fresh Water Tanks, 1 53gal Grey Water Tank, 2 48gal Waste Water Tanks and 2 Water Pumps
-			      <br>
-			      Electrical package: 2 Double Outlets 110v, 30amp Service, 4 breakers box, 3 Interior Lights
-			      <br>
-			      2 RV Toilets with Water Hose
-			      <br>
-			      2 Handwashing Sinks
-			      <br>
-			      2 Cabinets
-			      <br>
-			      1 Machine Room
-			      <br>
-			      1 RV Flush Waste Valves
-			      <br>
-			      3 30" Door w/Flush Lock
-				',
-				"gallery" => [
-					"restroom_trailer/7x14/1.jpg",
-					"restroom_trailer/7x14/2.jpg",
-					"restroom_trailer/7x14/3.jpg",
-					"restroom_trailer/7x14/4.jpg"
-				]
-			},
-			{
-				"name" => "7x20 3-Stall Restroom Trailer",
-				"price" => "$23,910",
-				"body" => '
-			      Water package: 2 53gal Fresh Water Tanks, 1 53gal Grey Water Tank, 3 48gal Waste Water Tanks and 2 Water Pumps
-			      <br>
-			      Electrical package: 2 Double Outlets 110v, 30amp Service, 4 breakers box, 3 Interior Lights
-			      <br>
-			      3 RV Toilets with Water Hose
-			      <br>
-			      3 Handwashing Sinks
-			      <br>
-			      3 Cabinets
-			      <br>
-			      1 Machine Room
-			      <br>
-			      3 RV Flush Waste Valves
-			      <br>
-			      3 30" Door w/Flush Lock
-				',
-				"gallery" => [
-					"restroom_trailer/7x20/1.jpg",
-					"restroom_trailer/7x20/2.jpg",
-					"restroom_trailer/7x20/3.jpg",
-					"restroom_trailer/7x20/4.jpg"
-				]
-			},
-			{
-				"name" => "7x24 Restroom Trailer",
-				"price" => "$23,910",
-				"body" => '
-			      Water package: 2 53gal Fresh Water Tanks, 1 53gal Grey Water Tank, 3 48gal Waste Water Tanks and 2 Water Pumps
-			      <br>
-			      Electrical package: 2 Double Outlets 110v, 30amp Service, 4 breakers box, 3 Interior Lights
-			      <br>
-			      3 RV Toilets with Water Hose
-			      <br>
-			      3 Handwashing Sinks
-			      <br>
-			      3 Cabinets
-			      <br>
-			      1 Machine Room
-			      <br>
-			      3 RV Flush Waste Valves
-			      <br>
-			      3 30" Door w/Flush Lock
-				',
-				"gallery" => [
-					"restroom_trailer/7x24/1.jpg",
-					"restroom_trailer/7x24/2.jpg",
-					"restroom_trailer/7x24/3.jpg",
-					"restroom_trailer/7x24/4.jpg"
-				]
-			}
-		]
-	}
-]
+{
+  "food_trailer": [
+    {
+      "name": "7x10 Food Trailer",
+      "price": "$12,880",
+      "body": "Water package: 30g Fresh/45g Grey Tanks, Electric 6g Water Heater, Water Pump<br>Electrical package: 2 Double Outlets 110v, 30amp electric service (4 Breakers), 1 LED Light (interior), 2 LED Light Reflectors (exterior)<br>Sink package: Triple Sink (12x12x10) and Handwashing Sink (12x10x6)<br>A/C heater unit: 12000 BTUs<br>Concession window: with Pass-out Window and exterior counter<br>Working table: 72x16in stainless steel",
+      "gallery": [
+        "food_trailer/7x10/1.jpg",
+        "food_trailer/7x10/2.jpg",
+        "food_trailer/7x10/3.jpg",
+        "food_trailer/7x10/4.jpg"
+      ]
+    },
+    {
+      "name": "8x12 Food Trailer",
+      "price": "$14,480",
+      "body": "Water package: 30g Fresh/45g Grey Tanks, Electric 6g Water Heater, Water Pump<br>Electrical package: 2 Double Outlets 110v, 30amp electric service (4 Breakers), 1 LED Light (interior), 2 LED Light Reflectors (exterior)<br>Sink package: Triple Sink (12x12x10) and Handwashing Sink (12x10x6)<br>A/C heater unit: 12000 BTUs<br>Concession window: with Pass-out Window and exterior counter<br>Working table: 72x16in stainless steel",
+      "gallery": [
+        "food_trailer/8x12/1.jpg",
+        "food_trailer/8x12/2.jpg",
+        "food_trailer/8x12/3.jpg",
+        "food_trailer/8x12/4.jpg"
+      ]
+    },
+    {
+      "name": "8x14 Food Trailer",
+      "price": "$16,985",
+      "body": "Water package: 30g Fresh/45g Grey Tanks, Electric 6g Water Heater, Water Pump<br>Electrical package: 3 Double Outlets 110v, 30amp electric service (4 Breakers), 2 LED Light (interior), 2 LED Light Reflectors (exterior)<br>Sink package: Triple Sink (12x12x10) and Handwashing Sink (12x10x6)<br>A/C heater unit: 12000 BTUs<br>Concession window: with Pass-out Window and exterior counter<br>Working table: 72x16in stainless steel",
+      "gallery": [
+        "food_trailer/8x14/1.jpg",
+        "food_trailer/8x14/2.jpg",
+        "food_trailer/8x14/3.jpg",
+        "food_trailer/8x14/4.jpg"
+      ]
+    },
+    {
+      "name": "8x16 Food Trailer",
+      "price": "$18,585",
+      "body": "Water package: 30g Fresh/45g Grey Tanks, Electric 6g Water Heater, Water Pump<br>Electrical package: 3 Double Outlets 110v, 30amp electric service (4 Breakers), 2 LED Light (interior), 2 LED Light Reflectors (exterior)<br>Sink package: Triple Sink (12x12x10) and Handwashing Sink (12x10x6)<br>A/C heater unit: 12000 BTUs<br>Concession window: with Pass-out Window and exterior counter<br>Working table: 72x16in stainless steel",
+      "gallery": [
+        "food_trailer/8x16/1.jpg",
+        "food_trailer/8x16/2.jpg",
+        "food_trailer/8x16/3.jpg",
+        "food_trailer/8x16/4.jpg"
+      ]
+    },
+    {
+      "name": "8x18 Food Trailer",
+      "price": "$19,950",
+      "body": "Water package: 30g Fresh/45g Grey Tanks, Electric 6g Water Heater, Water Pump<br>Electrical package: 3 Double Outlets 110v, 30amp electric service (4 Breakers), 2 LED Light (interior), 2 LED Light Reflectors (exterior)<br>Sink package: Triple Sink (12x12x10) and Handwashing Sink (12x10x6)<br>A/C heater unit: 12000 BTUs<br>Concession window: with Pass-out Window and exterior counter<br>Working table: 72x16in stainless steel",
+      "gallery": [
+        "food_trailer/8x18/1.jpg",
+        "food_trailer/8x18/2.jpg",
+        "food_trailer/8x18/3.jpg",
+        "food_trailer/8x18/4.jpg"
+      ]
+    },
+    {
+      "name": "8x20 Food Trailer",
+      "price": "$20,950",
+      "body": "Water package: 30g Fresh/45g Grey Tanks, Electric 6g Water Heater, Water Pump<br>Electrical package: 3 Double Outlets 110v, 30amp electric service (4 Breakers), 3 LED Light (interior), 2 LED Light Reflectors (exterior)<br>Sink package: Triple Sink (12x12x10) and Handwashing Sink (12x10x6)<br>A/C heater unit: 12000 BTUs<br>(2) Concession windows: with Pass-out Window and exterior counter<br>Working table: 72x16in stainless steel",
+      "gallery": [
+        "food_trailer/8x20/1.jpg",
+        "food_trailer/8x20/2.jpg",
+        "food_trailer/8x20/3.jpg",
+        "food_trailer/8x20/4.jpg"
+      ]
+    },
+    {
+      "name": "8x24 Food Trailer",
+      "price": "$23,450",
+      "body": "Water package: 30g Fresh/45g Grey Tanks, Electric 6g Water Heater, Water Pump<br>Electrical package: 3 Double Outlets 110v, 30amp electric service (4 Breakers), 3 LED Light (interior), 2 LED Light Reflectors (exterior)<br>Sink package: Triple Sink (12x12x10) and Handwashing Sink (12x10x6)<br>A/C heater unit: 12000 BTUs<br>(2) Concession windows: with Pass-out Window and exterior counter<br>Working table: 72x16in stainless steel",
+      "gallery": [
+        "food_trailer/8x24/1.jpg",
+        "food_trailer/8x24/3.jpg",
+        "food_trailer/8x24/4.jpg"
+      ]
+    },
+    {
+      "name": "8x28 Food Trailer",
+      "price": "$27,650",
+      "body": "Water package: 30g Fresh/45g Grey Tanks, Electric 6g Water Heater, Water Pump<br>Electrical package: 8 Double Outlets 110v, 30amp electric service (6 Breakers), 3 LED Light (interior), 2 LED Light Reflectors (exterior)<br>Sink package: Triple Sink (12x12x10) and Handwashing Sink (12x10x6)<br>A/C heater unit: 12000 BTUs<br>(3) Concession windows: with Pass-out Window and exterior counter<br>Working table: 72x16in stainless steel",
+      "gallery": [
+        "food_trailer/8x28/1.jpg",
+        "food_trailer/8x28/2.jpg",
+        "food_trailer/8x28/3.jpg",
+        "food_trailer/8x28/4.jpg"
+      ]
+    },
+    {
+      "name": "8x32 Food Trailer",
+      "price": "$29,985",
+      "body": "Water package: 30g Fresh/45g Grey Tanks, Electric 6g Water Heater, Water Pump<br>Electrical package: 8 Double Outlets 110v, 30amp electric service (6 Breakers), 3 LED Light (interior), 2 LED Light Reflectors (exterior)<br>Sink package: Triple Sink (12x12x10) and Handwashing Sink (12x10x6)<br>A/C heater unit: 12000 BTUs<br>(3) Concession windows: with Pass-out Window and exterior counter<br>Working table: 72x16in stainless steel",
+      "gallery": [
+        "food_trailer/8x32/1.jpg",
+        "food_trailer/8x32/2.jpg",
+        "food_trailer/8x32/3.jpg",
+        "food_trailer/8x32/4.jpg"
+      ]
+    }
+  ],
+  "restroom_trailer" => [
+    {
+      "name": "7x10 2-Stall Restroom Trailer",
+      "price": "",
+      "body": "Water package: 2 53gal Fresh Water Tanks, 1 53gal Grey Water Tank, 2 48gal Waste Water Tanks and 2 Water Pumps<br>Electrical package: 2 Double Outlets 110v, 30amp Service, 4 breakers box, 3 Interior Lights<br>2 RV Toilets with Water Hose<br>2 Handwashing Sinks<br>2 Cabinets<br>1 Machine Room<br>1 RV Flush Waste Valves<br>3 30\" Door w/Flush Lock",
+      "gallery": [
+        "restroom_trailer/7x10/1.jpg",
+        "restroom_trailer/7x10/2.jpg",
+        "restroom_trailer/7x10/3.jpg",
+        "restroom_trailer/7x10/4.jpg"
+      ]
+    },
+    {
+      "name": "7x14 2-Stall Restroom Trailer",
+      "price": "$18,920",
+      "body": "Water package: 2 53gal Fresh Water Tanks, 1 53gal Grey Water Tank, 2 48gal Waste Water Tanks and 2 Water Pumps<br>Electrical package: 2 Double Outlets 110v, 30amp Service, 4 breakers box, 3 Interior Lights<br>2 RV Toilets with Water Hose<br>2 Handwashing Sinks<br>2 Cabinets<br>1 Machine Room<br>1 RV Flush Waste Valves<br>3 30\" Door w/Flush Lock",
+      "gallery": [
+        "restroom_trailer/7x14/1.jpg",
+        "restroom_trailer/7x14/2.jpg",
+        "restroom_trailer/7x14/3.jpg",
+        "restroom_trailer/7x14/4.jpg"
+      ]
+    },
+    {
+      "name": "7x20 3-Stall Restroom Trailer",
+      "price": "$23,910",
+      "body": "Water package: 2 53gal Fresh Water Tanks, 1 53gal Grey Water Tank, 3 48gal Waste Water Tanks and 2 Water Pumps<br>Electrical package: 2 Double Outlets 110v, 30amp Service, 4 breakers box, 3 Interior Lights<br>3 RV Toilets with Water Hose<br>3 Handwashing Sinks<br>3 Cabinets<br>1 Machine Room<br>3 RV Flush Waste Valves<br>3 30\" Door w/Flush Lock",
+      "gallery": [
+        "restroom_trailer/7x20/1.jpg",
+        "restroom_trailer/7x20/2.jpg",
+        "restroom_trailer/7x20/3.jpg",
+        "restroom_trailer/7x20/4.jpg"
+      ]
+    },
+    {
+      "name": "7x24 Restroom Trailer",
+      "price": "$23,910",
+      "body": "Water package: 2 53gal Fresh Water Tanks, 1 53gal Grey Water Tank, 3 48gal Waste Water Tanks and 2 Water Pumps<br>Electrical package: 2 Double Outlets 110v, 30amp Service, 4 breakers box, 3 Interior Lights<br>3 RV Toilets with Water Hose<br>3 Handwashing Sinks<br>3 Cabinets<br>1 Machine Room<br>3 RV Flush Waste Valves<br>3 30\" Door w/Flush Lock",
+      "gallery": [
+        "restroom_trailer/7x24/1.jpg",
+        "restroom_trailer/7x24/2.jpg",
+        "restroom_trailer/7x24/3.jpg",
+        "restroom_trailer/7x24/4.jpg"
+      ]
+    }
+  ]
+}
