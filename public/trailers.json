@@ -144,5 +144,41 @@
         "restroom_trailer/7x24/4.jpg"
       ]
     }
+  ],
+  "office_trailer": [
+    {
+      "name": "Mobile Office trailer 8x16",
+      "price": "$15.900,00",
+      "body": "Construction offices, residential sales area, mobile booths, warehouses, bedrooms, mobile classrooms, etc. <br> With dimensions from 3 meters to 16 meters, with capacity from one person to 25 people. <br> With mini-splits, bathrooms, windows, kitchenette area, desks, 110 v and 220 v electrical installation, meeting room and much more.",
+      "gallery": [
+        "office_trailer/8x16/1.jpg",
+        "office_trailer/8x16/2.jpg",
+        "office_trailer/8x16/3.jpg",
+        "office_trailer/8x16/4.jpg"
+      ]
+    },
+    {
+      "name": "Mobile Office trailer 8x20",
+      "price": "$17.500,00",
+      "body": "Construction offices, residential sales area, mobile booths, warehouses, bedrooms, mobile classrooms, etc. <br> With dimensions from 3 meters to 16 meters, with capacity from one person to 25 people. <br> With mini-splits, bathrooms, windows, kitchenette area, desks, 110 v and 220 v electrical installation, meeting room and much more.",
+      "gallery": [
+        "office_trailer/8x20/1.jpg",
+        "office_trailer/8x20/2.jpg",
+        "office_trailer/8x20/3.jpg",
+        "office_trailer/8x20/4.jpg"
+      ]
+    }
+,
+    {
+      "name": "Mobile Office trailer 8x24",
+      "price": "$21.350,00",
+      "body": "Construction offices, residential sales area, mobile booths, warehouses, bedrooms, mobile classrooms, etc. <br> With dimensions from 3 meters to 16 meters, with capacity from one person to 25 people. <br> With mini-splits, bathrooms, windows, kitchenette area, desks, 110 v and 220 v electrical installation, meeting room and much more.",
+      "gallery": [
+        "office_trailer/8x24/1.jpg",
+        "office_trailer/8x24/2.jpg",
+        "office_trailer/8x24/3.jpg",
+        "office_trailer/8x24/4.jpg"
+      ]
+    }
   ]
 }
