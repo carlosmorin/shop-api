@@ -99,7 +99,7 @@
       ]
     }
   ],
-  "restroom_trailer" => [
+  "restroom_trailer": [
     {
       "name": "7x10 2-Stall Restroom Trailer",
       "price": "",
